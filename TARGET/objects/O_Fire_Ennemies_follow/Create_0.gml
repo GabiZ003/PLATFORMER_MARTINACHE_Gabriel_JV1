@@ -1,0 +1,1 @@
+direction = point_direction(x,y,O_Hero.x,O_Hero.y);

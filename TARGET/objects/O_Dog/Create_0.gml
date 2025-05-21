@@ -1,0 +1,14 @@
+/// @description Insert description here
+// You can write your code in this editor
+gpu_set_tex_filter(false);
+walksp = 1;
+hsp = walksp;
+vsp = 0;
+grv = 0.1;
+
+touch = false;
+hp = 3;
+dead = false;
+
+
+
